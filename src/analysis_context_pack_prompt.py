@@ -10,7 +10,7 @@ from typing import Any, Dict, Iterable, List, Optional
 BLOCK_LABELS_ZH = {
     "quote": "行情",
     "daily_bars": "日线",
-    "technical": "技术",
+    "technical": "技术（须综合研判 MACD 金叉/死叉、KDJ 超买超卖、RSI 及布林带轨道，配合量能给出操作建议）",
     "chip": "筹码",
     "fundamentals": "基本面",
     "news": "新闻",
